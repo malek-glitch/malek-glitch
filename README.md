@@ -1,8 +1,37 @@
 - 👋 Hi, I’m @malek-glitch
-- 👀 I’m interested in PROGRAMING...
-- 🌱 I’m currently learning C ...
-- 💞️ I’m looking to collaborate on C  PROJECT   
-- 📫 How to reach me ...
+# ✨Full-Stack Developer - Spring Boot & React✨
+
+## Overview
+
+Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in building robust and scalable applications using Spring Boot for the backend, React for the frontend and PostgreSql for the database. This repository showcases my projects, contributions, and the technologies I'm proficient in.
+
+## Tech Stack
+
+- **Backend:** Spring Boot, Java
+- **Frontend:** React, NextJs, JavaScript, TypeScript , taillwind CSS
+- **Database:** PostgreSQL, MySQL, MongoDB
+- **Tools & Technologies:** Git, RESTful APIs, JSON, Webpack, npm, Maven
+
+## Projects
+
+### Project: Georeferencing App
+
+- **Description:** A comprehensive georeferencing application developed using Spring Boot for the backend and React for the frontend.
+- **Key Features:**
+  - Geospatial data processing.
+  - Interactive maps with real-time updates.
+  - Secure backend-frontend communication.
+  - User authentication and authorization.
+  
+
+## Problem Solving & Coding Challenges
+
+I'm enthusiastic about problem-solving and regularly participate in coding challenges. You can find my solutions and contributions in the following repositories:
+- [Codewars Solutions](https://github.com/malek-glitch/codeWars-katas)
+
+<br/>
+- malekGharyani19@gmail.com
+
 
 <!---
 malek-glitch/malek-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
