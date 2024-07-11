@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malek-glitch
-# ✨Full-Stack Developer - Spring Boot & React✨
+# ✨Full-Stack Developer - Spring Boot & Angular✨
 
 ## Overview
 
@@ -8,11 +8,13 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ## Tech Stack
 
 - **Backend:** Spring Boot, Java
-- **Frontend:** React, NextJs, JavaScript, TypeScript , taillwind CSS
+- **Frontend:** Angular, JavaScript, TypeScript , taillwind CSS, VueJS
 - **Database:** PostgreSQL, MySQL, MongoDB
-- **Tools & Technologies:** Git, RESTful APIs, JSON, Webpack, npm, Maven
+- **Tools & Technologies:** Maven, Gradle, Git, Webpack, npm, Microsevices, RESTful APIs, JSON,
 
 ## Projects
+
+
 
 ### Project: Georeferencing App
 
