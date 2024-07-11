@@ -9,7 +9,7 @@ I'm an experienced Software Developer with a Bachelor's degree. Proficient in Ja
 ## Tech Stack
 
 - **Backend:** Spring Boot, Java
-- **Frontend:** Angular, JavaScript, TypeScript , taillwind CSS, VueJS
+- **Frontend:** Angular, JavaScript, TypeScript , taillwind CSS, ReactJS
 - **Database:** PostgreSQL, MySQL, MongoDB
 - **Tools & Technologies:** Maven, Gradle, Git, Webpack, npm, Microsevices, RESTful APIs, JSON,
 
