@@ -4,14 +4,14 @@
 ## Overview
 
 Welcome to my GitHub profile!
-I'm an experienced Software Developer with a Bachelor's degree. Proficient in Java, Spring, Angular, and SQL, with strong problem-solving and teamwork skills. I possess a deep understanding of object-oriented programming and database integration. I am committed to applying my technical expertise and analytical skills to deliver high-quality, impactful projects in a professional setting.
+I'm an enthusiast Software Developer with a Bachelor's degree. Proficient in Java, Spring, Angular, and SQL, with strong problem-solving and teamwork skills. I possess a deep understanding of object-oriented programming and database integration. I am committed to applying my technical expertise and analytical skills to deliver high-quality, impactful projects in a professional setting.
 
 ## Tech Stack
 
 - **Backend:** Spring Boot, Java
-- **Frontend:** Angular, JavaScript, TypeScript , taillwind CSS, ReactJS
+- **Frontend:** Angular
 - **Database:** PostgreSQL, MySQL, MongoDB
-- **Tools & Technologies:** Maven, Gradle, Git, Webpack, npm, Microsevices, RESTful APIs, JSON,
+- **Tools & Technologies:**  Microservices Architecure, 
 
 ## Projects
 
